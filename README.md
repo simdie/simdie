@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Tevis Lucas
-- 👀 I am a software engineer. I graduated from Innopolis University, Russian Federation with a major in Computer Science.
 - 🌱 I'm a mid-level Web & App developer and Co-founder at LulexTech.
 - 💞️ I have experience working as a freelancer across different fields and technology stacks ranging from development of Web & Mobile Apps, scalable APIs to distributed GIS infrastructure. 
 - 📫 My major interests include Frontend and Backend Development, Android and iOS mobile development. 
