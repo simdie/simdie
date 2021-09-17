@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tevis Lucas
-- 🌱 I'm a mid-level Web & App developer and Co-founder at Balon Tech.
-- 💞️ I have experience working as a freelancer across different fields and technology stacks ranging from development of Web & Mobile Apps, scalable APIs to distributed GIS infrastructure. 
-- 📫 My major interests include Frontend and Backend Development, Android and iOS mobile development. 
-     The languages and technologies I have used in the course of my work and study include Python, Django, Javascript, React, Flutter & Dart.
+- 🌱 I'm a mid-level Web  developer and Co-founder at Balon Tech.
+- 💞️ I have experience working as a freelancer across different fields and technology stacks ranging from development of Web  Apps, scalable APIs to distributed GIS infrastructure. 
+- 📫 My major interests include Frontend and Backend Development. 
+     The languages and technologies I have used in the course of my work and study include Javascript, React,Nodejs, Html and Bootstrap. However i'm elvolving in Python / Django and Data science, .
 
 
 <!---
